@@ -1,0 +1,22 @@
+{'k': 20, 'C': 1.0, 'cv_f1': 0.9265938824667819, 'accuracy': 0.94, 'precision': 0.9489795918367347, 'recall': 0.93, 'specificity': np.float64(0.95), 'f1': 0.9393939393939394, 'mcc': 0.8801760528176062, 'auc': 0.9775, 'average_precision': 0.969839330951471, 'tn': np.int64(95), 'fp': np.int64(5), 'fn': np.int64(7), 'tp': np.int64(93)}
+                     feature  coefficient
+        no_of_internal_links    -1.940091
+             total_words_url     1.672226
+    presence_of_free_hosting     1.233470
+                   count_www    -1.175996
+ url_has_high_risk_extension     1.093745
+                no_of_Images    -1.052081
+          no_of_questionmark    -1.050526
+                 url_entropy     1.032869
+  title_mismatch_with_domain     0.995545
+    presence_of_url_shortner     0.853433
+                 no_of_comma    -0.661029
+            no_of_underscore    -0.635986
+        hidden_elements_html    -0.609445
+             no_of_ampersand     0.570135
+     average_length_of_words     0.543873
+        hostname_digit_ratio     0.451938
+presence_of_shorten_url_html    -0.424923
+                   count_com    -0.378650
+                 no_of_forms     0.287975
+            no_of_null_links     0.030865
